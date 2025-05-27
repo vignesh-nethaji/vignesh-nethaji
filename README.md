@@ -1,6 +1,6 @@
 # Vignesh Nethaji - Technical Lead & Software Engineer 🚀
 
-Welcome to my interactive profile! I'm **Vignesh Nethaji**, a **Technical Lead** and **Software Engineer** with over **10+ years of experience** in building scalable, robust, and innovative software solutions. My expertise spans a broad spectrum of technologies, frameworks, and tools, with a special focus on **Microsoft technologies** and **cloud platforms**.
+I'm **Vignesh Nethaji** (officially known as Vignesh Murugan also), a **Technical Lead** and **Software Engineer** with over **10+ years of experience** in building scalable, robust, and innovative software solutions. My expertise spans a broad spectrum of technologies, frameworks, and tools, with a special focus on **Microsoft technologies** and **cloud platforms**.
 
 ---
 
